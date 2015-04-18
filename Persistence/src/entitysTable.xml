@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entitys>
+	<usePoSrcPath path="com.persistence.po"></usePoSrcPath>
+</entitys>
